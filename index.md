@@ -3,11 +3,11 @@
 You can find all FRENCH translations for phpBB 3.2.x extensions & sorted by extension names:
 
 # A to F
-https://github.com/Communaute-EzCom/phpbb-3.2.x-extensions/tree/master/A-F
+<a href="https://github.com/Communaute-EzCom/phpbb-3.2.x-extensions/tree/master/A-F">Extensions sorted from A to F</a>
 # G to M
-https://github.com/Communaute-EzCom/phpbb-3.2.x-extensions/tree/master/G-M
+<a href="https://github.com/Communaute-EzCom/phpbb-3.2.x-extensions/tree/master/G-M">Extensions sorted from G to M</a>
 # N to Z
-https://github.com/Communaute-EzCom/phpbb-3.2.x-extensions/tree/master/N-Z
+<a href="https://github.com/Communaute-EzCom/phpbb-3.2.x-extensions/tree/master/N-Z">Extensions sorted from N to Z</a>
 
 ## Other usefull links
 Our website: http://www.ezcom-fr.com | Mirror: http://ezcom.free.fr/?dir=phpBB/3.2.x/Extensions
