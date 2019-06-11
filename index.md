@@ -5,7 +5,7 @@ You can find all FRENCH translations for phpBB 3.2.x extensions & sorted by exte
 # A to F
 <a href="https://github.com/Communaute-EzCom/phpbb-3.2.x-extensions/tree/master/A-F">Extensions sorted from A to F</a>
 # G to M
-<a href="https://github.com/Communaute-EzCom/phpbb-3.2.x-extensions/tree/master/G-M">Extensions sorted from G to M</a>
+<a href="https://github.com/Communaute-EzCom/phpbb-3.2.x-extensions/tree/master/G-P">Extensions sorted from G to P</a>
 # N to Z
 <a href="https://github.com/Communaute-EzCom/phpbb-3.2.x-extensions/tree/master/N-Z">Extensions sorted from N to Z</a>
 
