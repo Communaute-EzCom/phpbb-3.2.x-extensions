@@ -9,4 +9,4 @@ https://github.com/Communaute-EzCom/phpbb-3.2.x-extensions/tree/master/G-M
 # N to Z
 https://github.com/Communaute-EzCom/phpbb-3.2.x-extensions/tree/master/N-Z
 
-our website: http://www.ezcom-fr.com | Mirror: http://ezcom.free.fr/?dir=phpBB/3.2.x/Extensions
+Our website: http://www.ezcom-fr.com | Mirror: http://ezcom.free.fr/?dir=phpBB/3.2.x/Extensions
