@@ -10,4 +10,4 @@ You can find all FRENCH translations for phpBB 3.2.x extensions & sorted by exte
 <a href="https://github.com/Communaute-EzCom/phpbb-3.2.x-extensions/tree/master/Q-Z">Extensions sorted from Q to Z</a>
 
 ## Other usefull links
-Our website: <a href="http://www.ezcom-fr.com">EzCom Community</a> | Repository mirror: <a href="http://ezcom.free.fr/?dir=phpBB/3.2.x/Extensions">EzCom Mirror</a>
+Our website: <a href="http://www.ezcom-fr.com">EzCom Community</a> | Repository mirror: <a href="http://ezcom.free.fr/?dir=phpBB/3.2.x/Extensions">EzCom Mirror</a>.
