@@ -15,7 +15,7 @@ You can find all FRENCH translations for phpBB 3.2.x extensions & sorted by exte
 <a href="https://github.com/Communaute-EzCom/phpbb-3.2.x-extensions/tree/master/Traductions%20en%20cours">Other tools for phpBB 3.2.x</a>.
 
 ## Other usefull links:
-Our website: <a href="http://www.ezcom-fr.com">Communauté Ezcom</a> | Our repository mirror: <a href="http://ezcom.free.fr/?dir=phpBB/3.2.x/Extensions">EzCom Miroir</a>.
+Our website: <a href="https://www.ezcom-fr.com">Communauté Ezcom</a> | Our repository mirror: <a href="http://ezcom.free.fr/?dir=phpBB/3.2.x/Extensions">EzCom Miroir</a>.
 
 ---------------
 
@@ -36,4 +36,4 @@ Vous trouverez toutes les traductions françaises pour les extensions dédiées 
 <a href="https://github.com/Communaute-EzCom/phpbb-3.2.x-extensions/tree/master/Traductions%20en%20cours">Autres extensions pour phpBB 3.2.x à traduire ou en cours de traduction</a>.
 
 ## Autres liens utiles :
-Notre site Web : <a href="http://www.ezcom-fr.com">Communauté Ezcom</a> | Notre dépôt de fichiers miroir : <a href="http://ezcom.free.fr/?dir=phpBB/3.2.x/Extensions">EzCom Miroir</a>.
+Notre site Web : <a href="https://www.ezcom-fr.com">Communauté Ezcom</a> | Notre dépôt de fichiers miroir : <a href="http://ezcom.free.fr/?dir=phpBB/3.2.x/Extensions">EzCom Miroir</a>.
