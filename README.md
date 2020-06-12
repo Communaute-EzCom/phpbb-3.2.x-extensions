@@ -5,4 +5,4 @@ Here, you can find the FRENCH translations for phpBB 3.2.x extensions sorted by 
 
 ### Our website: https://www.ezcom-fr.com
 
-### Mirror: https://ezcom.free.fr/?dir=phpBB/3.2.x/Extensions
+### Mirror: http://ezcom.free.fr/?dir=phpBB/3.2.x/Extensions
